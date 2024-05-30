@@ -1,0 +1,165 @@
+
+
+  body {
+      background-image: url("C:\Users\Administrator\Desktop\NIBM\HD\EAD 2\updated project\photo\pizza-uhd-4k-wallpaper.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      /* Additional properties to customize the background */
+  }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background: #f9f9f9;
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      text-align: center;
+      color: #3498db; /* Change the color as needed */
+      font-size: 36px; /* Change the font size as needed */
+      margin-bottom: 10px; /* Adjust the margin as needed */
+      text-transform: uppercase;
+      font-weight: bold; /* Add font-weight if desired */
+      letter-spacing: 1px; /* Add letter spacing if desired */
+    }
+
+
+    h3 {
+      text-align: center;
+      margin-bottom: 10px;
+      font-size: 18px;
+      color: #777777;
+    }
+
+    .container {
+      max-width: 500px;
+      width: 100%;
+      padding: 30px;
+      border-radius: 8px;
+      background: #FFFFFF;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    ..form-label {
+         margin-bottom: 10px;
+         font-weight: 600;
+         color: #2196F3; /* Change to the desired color code */
+         font-size: 18px;
+     }
+
+
+
+    .form-check-label {
+      margin-left: 20px;
+      color: #CC0000;
+    }
+
+    .form-text {
+      color: #555555;
+      font-size: 14px;
+    }
+
+    #btnSubmit {
+      .button-style {
+          display: inline-block; /* Change to "block" if you want it to be a block element */
+          width: 150px; /* Adjust the width as needed */
+          padding: 15px 25px; /* Adjust the padding as needed */
+          font-size: 20px; /* Change the font size as needed */
+          margin-top: 20px; /* Adjust the margin-top as needed */
+          background-color: #4CAF50; /* Change the background color as needed */
+          color: #FFFFFF;
+          border: 2px solid #2E8B57; /* Change the border color and width as needed */
+          border-radius: 8px; /* Adjust the border-radius as needed */
+          cursor: pointer;
+      }
+
+
+    #btnSubmit:hover {
+      background-color: #2980b9; /* Change the hover background color as needed */
+      border-color: #2980b9; /* Change the hover border color as needed */
+    }
+
+
+
+      body {
+        font-family: "Open Sans", sans-serif;
+        background: #0c0b09;
+        color: #fff;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      .container {
+        max-width: 500px;
+        width: 100%;
+        padding: 30px;
+        border-radius: 8px;
+        background: #1a1814;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        margin: auto;
+        margin-top: 100px;
+      }
+
+      h1 {
+        text-align: center;
+        color: #FF5722;
+        font-size: 32px;
+        margin-bottom: 20px;
+        text-transform: uppercase;
+      }
+
+      .form-label {
+        margin-bottom: 8px;
+        font-weight: bold;
+        color: #d9ba85; /* Changed form label color */
+        font-size: 16px;
+      }
+
+      .form-text {
+        color: #999; /* Changed form text color */
+        font-size: 14px;
+        margin-top: 8px;
+      }
+
+      #btnSubmit {
+        display: block;
+        width: 100%;
+        padding: 12px 20px;
+        font-size: 18px;
+        margin-top: 30px;
+        background-color: #3498db; /* Changed button background color */
+        color: #FFFFFF;
+        border: 2px solid #3498db; /* Changed button border color and width */
+        border-radius: 6px;
+        cursor: pointer;
+      }
+
+      #btnSubmit:hover {
+        background-color: #2980b9; /* Changed button hover background color */
+        border-color: #2980b9; /* Changed button hover border color */
+      }
+
+      .form-check-label {
+        color: #d9ba85; /* Changed form check label color */
+      }
+
+      .form-check-input {
+        margin-top: 4px;
+      }
+
+      .text-center {
+        margin-top: 20px;
+      }
+
+
